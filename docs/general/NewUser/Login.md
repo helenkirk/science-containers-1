@@ -1,4 +1,4 @@
-# How to log in {#login}
+# How to log in 
 
 You will need a CADC account to access the system. If you do not have
 one, you can request one here:
@@ -9,7 +9,7 @@ To request authorization to use the Science Portal, send an email to
 
 -   *Project space*: If you intend to work on a dataset with
     collaborators, it is recommended that you set up a
-    `project space<projectspace>`{.interpreted-text role="ref"}, where a
+    [project space](science-containers/general/NewUser/ProjectSpace/), where a
     designated group of users all has common access to the files
     contained within it. You will need to supply a project name and
     estimated space requirement to the email address above.
@@ -31,7 +31,7 @@ Start a new session by clicking the plus sign
 There are four different types of sessions that you can choose to
 launch: Desktop, CARTA, Notebook, and Contributed. All are described
 below; in brief, Desktop provides a linux desktop-like working
-environment, CARTA corresponds to ALMA\'s CARTA visualization tool,
+environment, CARTA corresponds to ALMA's CARTA visualization tool,
 Notebook provides a Jupyter Notebook environment, and Contributed
 contains community-contributed tools such as a time estimator for the
 CASTOR mission. Start by selecting the session type in the upper
@@ -43,6 +43,6 @@ remaining menu items.
 See the following pages for the subsequent steps. Note that you can have
 at most three active sessions of any type.
 
-> -   `launch_desktop`{.interpreted-text role="ref"}
-> -   `launch_carta`{.interpreted-text role="ref"}
-> -   `launch_notebook`{.interpreted-text role="ref"}
+> -   [Launch Desktop](cience-containers/general/NewUser/LaunchDesktop/)
+> -   [Launch CARTA](science-containers/general/NewUser/LaunchCARTA/)
+> -   [Launch Notebook](science-containers/general/NewUser/LaunchNotebook/)
