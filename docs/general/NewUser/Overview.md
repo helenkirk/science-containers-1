@@ -34,7 +34,7 @@ files, running processes, etc, will be as you left them.
 -   A [Desktop session](/science-containers/general/NewUser/LaunchDesktop)
     provides a linux desktop-like environment in which to interact with
     software containers; many commonly-used astronomy software packages
-    are available in the \'astrosoftware\' menu.
+    are available in the 'astrosoftware' menu.
 -   A [Notebook session](/science-containers/general/NewUser/LaunchNotebook)
     provides a Jupyter Notebook style of environment in which to
     interact with your data and run software.
@@ -59,7 +59,7 @@ upload/download files via the methods described
 There are a few important points to note about the file storage system
 on the Science Portal:
 
--   CANFAR\'s [VOSpace](https://www.canfar.net/en/docs/storage/) service
+-   CANFAR's [VOSpace](https://www.canfar.net/en/docs/storage/) service
     should be used for long-term stable file storage, as it includes
     multiple backups at different geographical locations.
 -   Users can request space in both a personal home directory as well as
